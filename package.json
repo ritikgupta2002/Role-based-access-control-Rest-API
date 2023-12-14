@@ -1,0 +1,17 @@
+{
+  "name": "role-based-access-control-api",
+  "version": "1.0.0",
+  "description": "below is the consolidated code for the user authentication system, secure password storage, token validation middleware, and the basic product management APIs.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon index.js "
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2",
+    "mongoose": "^8.0.3",
+    "nodemon": "^3.0.2"
+  }
+}
